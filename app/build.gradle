@@ -1,0 +1,56 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion rootProject.ext.android.compileSdkVersion
+    defaultConfig {
+        applicationId "com.example.android.videoplayerdemo"
+        minSdkVersion rootProject.ext.android.minSdkVersion
+        targetSdkVersion rootProject.ext.android.targetSdkVersion
+        versionCode rootProject.ext.android.versionCode
+        versionName rootProject.ext.android.versionName
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+        javaCompileOptions { annotationProcessorOptions { includeCompileClasspath = true } }
+
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    repositories {
+        flatDir { dirs 'libs' }
+    }
+    sourceSets.main{
+        jni.srcDirs = []
+        jniLibs.srcDir "src/main/libs"
+    }
+
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation rootProject.ext.dependencies.appcompatV7
+    implementation 'com.android.support.constraint:constraint-layout:1.1.0'
+    testImplementation rootProject.ext.dependencies.junit
+    androidTestImplementation rootProject.ext.dependencies.runner
+    androidTestImplementation rootProject.ext.dependencies.espresso
+    implementation rootProject.ext.dependencies.butterknife
+    //阿里云视频
+    implementation(name: 'AlivcPlayer-3.4.3', ext: 'aar')
+    implementation(name: 'AlivcReporter-1.1', ext: 'aar')
+    implementation(name: 'AliyunVodPlayer-3.4.3', ext: 'aar')
+    implementation project(':videoplayerlibrary')
+
+    //阿里短视频
+    implementation project(":AliyunSVideoLibrary")
+
+    //短视频用到的第三方库
+    implementation 'com.google.code.gson:gson:2.8.0'
+    implementation 'com.squareup.okhttp3:okhttp:3.2.0'
+    implementation 'com.aliyun.dpa:oss-android-sdk:2.4.4'
+
+    //缓存
+    implementation 'com.danikula:videocache:2.6.4'
+}

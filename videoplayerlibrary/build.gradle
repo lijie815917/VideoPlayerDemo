@@ -1,0 +1,56 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion rootProject.ext.android.compileSdkVersion
+    defaultConfig {
+        minSdkVersion rootProject.ext.android.minSdkVersion
+        targetSdkVersion rootProject.ext.android.targetSdkVersion
+        versionCode rootProject.ext.android.versionCode
+        versionName rootProject.ext.android.versionName
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    lintOptions {
+        abortOnError false
+    }
+
+    productFlavors {
+    }
+    repositories {
+        flatDir { dirs 'libs' }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+    implementation  rootProject.ext.dependencies.appcompatV7
+    testImplementation  rootProject.ext.dependencies.junit
+    androidTestImplementation rootProject.ext.dependencies.runner
+    androidTestImplementation rootProject.ext.dependencies.espresso
+
+    //IJK播放器
+    implementation 'tv.danmaku.ijk.media:ijkplayer-java:0.8.3'
+    implementation 'tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.3'
+    implementation 'tv.danmaku.ijk.media:ijkplayer-armv5:0.8.3'
+    implementation 'tv.danmaku.ijk.media:ijkplayer-x86:0.8.3'
+    implementation 'tv.danmaku.ijk.media:ijkplayer-arm64:0.8.3'
+    implementation 'tv.danmaku.ijk.media:ijkplayer-x86_64:0.8.3'
+    //ExoPlayer
+    implementation 'com.google.android.exoplayer:exoplayer:2.8.0'
+    //阿里云视频
+    implementation(name:'AlivcPlayer-3.4.3' ,ext:'aar')
+    implementation(name:'AlivcReporter-1.1' ,ext:'aar')
+    implementation(name:'AliyunVodPlayer-3.4.3' ,ext:'aar')
+
+
+}

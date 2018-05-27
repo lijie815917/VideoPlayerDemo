@@ -1,0 +1,283 @@
+-- Merging decision tree log ---
+manifest
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:2:1-50:12
+MERGED from [:videoplayerlibrary] I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\videoplayerlibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f27e2b2d45f0e32d12422eb146db79e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\990e5b602f10cb230a5961dccafbf3d9\AndroidManifest.xml:2:1-11:12
+MERGED from [:AlivcPlayer-3.4.3:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AlivcPlayer-3.4.3.aar\7a5bf762ca5748f4bd4a0e93ecbbe68a\AndroidManifest.xml:2:1-14:12
+MERGED from [:AlivcReporter-1.1:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AlivcReporter-1.1.aar\25951c123ba34ec1c72dbafaeaac11ef\AndroidManifest.xml:2:1-17:12
+MERGED from [:AliyunVodPlayer-3.4.3:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AliyunVodPlayer-3.4.3.aar\2def55e569ea04eb9aee05966c0c19fc\AndroidManifest.xml:2:1-14:12
+MERGED from [:AliyunSVideoLibrary] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AliyunSdk-RCE.aar\acc7542e9a4d18f15f7e6c78253f9ca1\AndroidManifest.xml:2:1-18:12
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\oss-android-sdk-2.4.4.aar\f16baa963cb92e6e025df0e24394a364\AndroidManifest.xml:2:1-22:12
+MERGED from [com.danikula:videocache:2.6.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\videocache-2.6.4.aar\af44d153268acec45433d93636b48522\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c20b8bcc19803c4cdc143609f6c32a4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7da28cc4d9e978964426a03a8593eb3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\042cf6e6ec36c002305ea4619ba015ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6a2d8351f8fbcb8cedad3e0622801345\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4b16dccc05c40b09b812fe2f08e4f2e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-2.8.0.aar\14c9e133772e20c8eb2d8fc6bcaba1f6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-dash-2.8.0.aar\a0c0f9b6a69087ce3d52d52943140822\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-hls-2.8.0.aar\34d5a900e08a4507eef645668790c89d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.8.0.aar\d4ecddce6b31f045dca75b228ae39553\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-ui-2.8.0.aar\5c5cc1f4e46085f3f3ad0ef8d4248d6f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-core-2.8.0.aar\cfc3067b75d3582fbaad64007f79f93c\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-media-compat:27.0.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\0297ec7c85cdb2e432e4f9741474ddfe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e1ed515ba9cf019546d9c4d100d342ae\AndroidManifest.xml:17:1-22:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-java-0.8.3.aar\d93985c75184911fa28ea65ddc944eef\AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.3.aar\da37a14c599ea71541c4e3710021a4b2\AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv5:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-armv5-0.8.3.aar\374d79d6bdd327ebc7f65a17e6954c74\AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-x86:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-x86-0.8.3.aar\4675a116465c7ee9afd10fe668fb474d\AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-arm64:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-arm64-0.8.3.aar\300391189e487f897eaabc84f38d6167\AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-x86_64:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-x86_64-0.8.3.aar\a01914c5fd775816976ced50797d2bc1\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8e8542ed2dc852b1a2bcdbd5c70858cd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5de130eff3434e6ae5fa50f4ece61f0b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\runtime-1.1.0.aar\04702b1d7052ca215e0d605ceff987b9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\runtime-1.1.0.aar\10b84edd3a978e17f3ec766a2d8ad1ef\AndroidManifest.xml:17:1-22:12
+INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml
+		INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:4:5-79
+MERGED from [:AlivcReporter-1.1:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AlivcReporter-1.1.aar\25951c123ba34ec1c72dbafaeaac11ef\AndroidManifest.xml:11:5-79
+MERGED from [:AlivcReporter-1.1:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AlivcReporter-1.1.aar\25951c123ba34ec1c72dbafaeaac11ef\AndroidManifest.xml:11:5-79
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\oss-android-sdk-2.4.4.aar\f16baa963cb92e6e025df0e24394a364\AndroidManifest.xml:12:5-79
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\oss-android-sdk-2.4.4.aar\f16baa963cb92e6e025df0e24394a364\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-core-2.8.0.aar\cfc3067b75d3582fbaad64007f79f93c\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-core-2.8.0.aar\cfc3067b75d3582fbaad64007f79f93c\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:5:5-76
+MERGED from [:AlivcPlayer-3.4.3:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AlivcPlayer-3.4.3.aar\7a5bf762ca5748f4bd4a0e93ecbbe68a\AndroidManifest.xml:11:5-76
+MERGED from [:AlivcPlayer-3.4.3:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AlivcPlayer-3.4.3.aar\7a5bf762ca5748f4bd4a0e93ecbbe68a\AndroidManifest.xml:11:5-76
+MERGED from [:AliyunVodPlayer-3.4.3:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AliyunVodPlayer-3.4.3.aar\2def55e569ea04eb9aee05966c0c19fc\AndroidManifest.xml:11:5-76
+MERGED from [:AliyunVodPlayer-3.4.3:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AliyunVodPlayer-3.4.3.aar\2def55e569ea04eb9aee05966c0c19fc\AndroidManifest.xml:11:5-76
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\oss-android-sdk-2.4.4.aar\f16baa963cb92e6e025df0e24394a364\AndroidManifest.xml:13:5-76
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\oss-android-sdk-2.4.4.aar\f16baa963cb92e6e025df0e24394a364\AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.INTERNET
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [:AlivcReporter-1.1:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AlivcReporter-1.1.aar\25951c123ba34ec1c72dbafaeaac11ef\AndroidManifest.xml:12:5-67
+MERGED from [:AlivcReporter-1.1:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AlivcReporter-1.1.aar\25951c123ba34ec1c72dbafaeaac11ef\AndroidManifest.xml:12:5-67
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\oss-android-sdk-2.4.4.aar\f16baa963cb92e6e025df0e24394a364\AndroidManifest.xml:11:5-67
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\oss-android-sdk-2.4.4.aar\f16baa963cb92e6e025df0e24394a364\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\oss-android-sdk-2.4.4.aar\f16baa963cb92e6e025df0e24394a364\AndroidManifest.xml:14:5-81
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\oss-android-sdk-2.4.4.aar\f16baa963cb92e6e025df0e24394a364\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:10:5-73
+MERGED from [:AlivcPlayer-3.4.3:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AlivcPlayer-3.4.3.aar\7a5bf762ca5748f4bd4a0e93ecbbe68a\AndroidManifest.xml:12:5-73
+MERGED from [:AlivcPlayer-3.4.3:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AlivcPlayer-3.4.3.aar\7a5bf762ca5748f4bd4a0e93ecbbe68a\AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:10:22-70
+uses-permission#android.permission.CAMERA
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:13:5-69
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:13:22-66
+uses-permission#android.permission.RECORD_VIDEO
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:15:22-68
+application
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:16:5-48:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\990e5b602f10cb230a5961dccafbf3d9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\990e5b602f10cb230a5961dccafbf3d9\AndroidManifest.xml:9:5-20
+MERGED from [:AlivcReporter-1.1:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AlivcReporter-1.1.aar\25951c123ba34ec1c72dbafaeaac11ef\AndroidManifest.xml:14:5-15:19
+MERGED from [:AlivcReporter-1.1:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AlivcReporter-1.1.aar\25951c123ba34ec1c72dbafaeaac11ef\AndroidManifest.xml:14:5-15:19
+MERGED from [:AliyunSVideoLibrary] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AliyunSdk-RCE.aar\acc7542e9a4d18f15f7e6c78253f9ca1\AndroidManifest.xml:11:5-16:19
+MERGED from [:AliyunSVideoLibrary] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AliyunSdk-RCE.aar\acc7542e9a4d18f15f7e6c78253f9ca1\AndroidManifest.xml:11:5-16:19
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\oss-android-sdk-2.4.4.aar\f16baa963cb92e6e025df0e24394a364\AndroidManifest.xml:17:5-20:19
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\oss-android-sdk-2.4.4.aar\f16baa963cb92e6e025df0e24394a364\AndroidManifest.xml:17:5-20:19
+MERGED from [com.danikula:videocache:2.6.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\videocache-2.6.4.aar\af44d153268acec45433d93636b48522\AndroidManifest.xml:12:5-20
+MERGED from [com.danikula:videocache:2.6.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\videocache-2.6.4.aar\af44d153268acec45433d93636b48522\AndroidManifest.xml:12:5-20
+	android:supportsRtl
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:17:9-37
+activity#com.example.android.videoplayerdemo.activity.MainActivity
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:24:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:26:17-68
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.example.android.videoplayerdemo.activity.AliVideoPlayerActivity
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:32:9-34:76
+	android:screenOrientation
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:33:13-49
+	android:configChanges
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:34:13-74
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:32:19-66
+activity#com.example.android.videoplayerdemo.activity.AliShortVideoPlayerActivity
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:36:9-39:76
+	android:screenOrientation
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:37:13-49
+	android:windowSoftInputMode
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:38:13-64
+	android:configChanges
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:36:19-71
+activity#com.example.android.videoplayerdemo.activity.EXOVideoPlayerActivity
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:41:9-43:76
+	android:screenOrientation
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:42:13-49
+	android:configChanges
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:43:13-74
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:41:19-66
+activity#com.example.android.videoplayerdemo.activity.IJKVideoPlayerActivity
+ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:45:9-47:76
+	android:screenOrientation
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:46:13-49
+	android:configChanges
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:47:13-74
+	android:name
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:45:19-66
+uses-sdk
+INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml
+INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml
+MERGED from [:videoplayerlibrary] I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\videoplayerlibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:videoplayerlibrary] I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\videoplayerlibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f27e2b2d45f0e32d12422eb146db79e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f27e2b2d45f0e32d12422eb146db79e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\990e5b602f10cb230a5961dccafbf3d9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\990e5b602f10cb230a5961dccafbf3d9\AndroidManifest.xml:5:5-7:41
+MERGED from [:AlivcPlayer-3.4.3:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AlivcPlayer-3.4.3.aar\7a5bf762ca5748f4bd4a0e93ecbbe68a\AndroidManifest.xml:7:5-9:41
+MERGED from [:AlivcPlayer-3.4.3:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AlivcPlayer-3.4.3.aar\7a5bf762ca5748f4bd4a0e93ecbbe68a\AndroidManifest.xml:7:5-9:41
+MERGED from [:AlivcReporter-1.1:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AlivcReporter-1.1.aar\25951c123ba34ec1c72dbafaeaac11ef\AndroidManifest.xml:7:5-9:41
+MERGED from [:AlivcReporter-1.1:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AlivcReporter-1.1.aar\25951c123ba34ec1c72dbafaeaac11ef\AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunVodPlayer-3.4.3:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AliyunVodPlayer-3.4.3.aar\2def55e569ea04eb9aee05966c0c19fc\AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunVodPlayer-3.4.3:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AliyunVodPlayer-3.4.3.aar\2def55e569ea04eb9aee05966c0c19fc\AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunSVideoLibrary] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AliyunSdk-RCE.aar\acc7542e9a4d18f15f7e6c78253f9ca1\AndroidManifest.xml:7:5-9:41
+MERGED from [:AliyunSVideoLibrary] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AliyunSdk-RCE.aar\acc7542e9a4d18f15f7e6c78253f9ca1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\oss-android-sdk-2.4.4.aar\f16baa963cb92e6e025df0e24394a364\AndroidManifest.xml:7:5-9:41
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\oss-android-sdk-2.4.4.aar\f16baa963cb92e6e025df0e24394a364\AndroidManifest.xml:7:5-9:41
+MERGED from [com.danikula:videocache:2.6.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\videocache-2.6.4.aar\af44d153268acec45433d93636b48522\AndroidManifest.xml:8:5-10:41
+MERGED from [com.danikula:videocache:2.6.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\videocache-2.6.4.aar\af44d153268acec45433d93636b48522\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c20b8bcc19803c4cdc143609f6c32a4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c20b8bcc19803c4cdc143609f6c32a4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7da28cc4d9e978964426a03a8593eb3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7da28cc4d9e978964426a03a8593eb3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\042cf6e6ec36c002305ea4619ba015ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\042cf6e6ec36c002305ea4619ba015ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6a2d8351f8fbcb8cedad3e0622801345\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\6a2d8351f8fbcb8cedad3e0622801345\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4b16dccc05c40b09b812fe2f08e4f2e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4b16dccc05c40b09b812fe2f08e4f2e9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-2.8.0.aar\14c9e133772e20c8eb2d8fc6bcaba1f6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-2.8.0.aar\14c9e133772e20c8eb2d8fc6bcaba1f6\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-dash-2.8.0.aar\a0c0f9b6a69087ce3d52d52943140822\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-dash-2.8.0.aar\a0c0f9b6a69087ce3d52d52943140822\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-hls-2.8.0.aar\34d5a900e08a4507eef645668790c89d\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-hls-2.8.0.aar\34d5a900e08a4507eef645668790c89d\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.8.0.aar\d4ecddce6b31f045dca75b228ae39553\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.8.0.aar\d4ecddce6b31f045dca75b228ae39553\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-ui-2.8.0.aar\5c5cc1f4e46085f3f3ad0ef8d4248d6f\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-ui-2.8.0.aar\5c5cc1f4e46085f3f3ad0ef8d4248d6f\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-core-2.8.0.aar\cfc3067b75d3582fbaad64007f79f93c\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\exoplayer-core-2.8.0.aar\cfc3067b75d3582fbaad64007f79f93c\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-media-compat:27.0.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\0297ec7c85cdb2e432e4f9741474ddfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\0297ec7c85cdb2e432e4f9741474ddfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e1ed515ba9cf019546d9c4d100d342ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e1ed515ba9cf019546d9c4d100d342ae\AndroidManifest.xml:20:5-44
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-java-0.8.3.aar\d93985c75184911fa28ea65ddc944eef\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-java-0.8.3.aar\d93985c75184911fa28ea65ddc944eef\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.3.aar\da37a14c599ea71541c4e3710021a4b2\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.3.aar\da37a14c599ea71541c4e3710021a4b2\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv5:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-armv5-0.8.3.aar\374d79d6bdd327ebc7f65a17e6954c74\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv5:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-armv5-0.8.3.aar\374d79d6bdd327ebc7f65a17e6954c74\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-x86:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-x86-0.8.3.aar\4675a116465c7ee9afd10fe668fb474d\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-x86:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-x86-0.8.3.aar\4675a116465c7ee9afd10fe668fb474d\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-arm64:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-arm64-0.8.3.aar\300391189e487f897eaabc84f38d6167\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-arm64:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-arm64-0.8.3.aar\300391189e487f897eaabc84f38d6167\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-x86_64:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-x86_64-0.8.3.aar\a01914c5fd775816976ced50797d2bc1\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-x86_64:0.8.3] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\ijkplayer-x86_64-0.8.3.aar\a01914c5fd775816976ced50797d2bc1\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8e8542ed2dc852b1a2bcdbd5c70858cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8e8542ed2dc852b1a2bcdbd5c70858cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5de130eff3434e6ae5fa50f4ece61f0b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5de130eff3434e6ae5fa50f4ece61f0b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\runtime-1.1.0.aar\04702b1d7052ca215e0d605ceff987b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\runtime-1.1.0.aar\04702b1d7052ca215e0d605ceff987b9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\runtime-1.1.0.aar\10b84edd3a978e17f3ec766a2d8ad1ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\runtime-1.1.0.aar\10b84edd3a978e17f3ec766a2d8ad1ef\AndroidManifest.xml:20:5-44
+INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml
+INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml
+		INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml
+		ADDED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml
+		INJECTED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [:AliyunVodPlayer-3.4.3:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AliyunVodPlayer-3.4.3.aar\2def55e569ea04eb9aee05966c0c19fc\AndroidManifest.xml:12:5-76
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\oss-android-sdk-2.4.4.aar\f16baa963cb92e6e025df0e24394a364\AndroidManifest.xml:15:5-76
+MERGED from [com.aliyun.dpa:oss-android-sdk:2.4.4] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\oss-android-sdk-2.4.4.aar\f16baa963cb92e6e025df0e24394a364\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from [:AliyunVodPlayer-3.4.3:] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AliyunVodPlayer-3.4.3.aar\2def55e569ea04eb9aee05966c0c19fc\AndroidManifest.xml:12:22-73
+activity#com.aliyun.nativecrash.NativeCrashActivity
+ADDED from [:AliyunSVideoLibrary] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AliyunSdk-RCE.aar\acc7542e9a4d18f15f7e6c78253f9ca1\AndroidManifest.xml:15:9-79
+	android:name
+		ADDED from [:AliyunSVideoLibrary] G:\Android\Android\gradle\gradle-4.1\caches\transforms-1\files-1.1\AliyunSdk-RCE.aar\acc7542e9a4d18f15f7e6c78253f9ca1\AndroidManifest.xml:15:19-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from I:\AndroidVedioPlayer\EyeVideoPlayer\VideoPlayerDemo\app\src\main\AndroidManifest.xml:2:1-50:12 reason: com.alibaba.sdk.android.oss_android_sdk requested WRITE_EXTERNAL_STORAGE

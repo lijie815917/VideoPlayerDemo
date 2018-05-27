@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="artifacts:AliyunSVideoLibrary">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/gradle-4.1/caches/transforms-1/files-1.1/AliyunSdk-RCE.aar/acc7542e9a4d18f15f7e6c78253f9ca1/jars/libs/aliyun-vod-upload-android-sdk-1.1.0.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/gradle-4.1/caches/transforms-1/files-1.1/AliyunSdk-RCE.aar/acc7542e9a4d18f15f7e6c78253f9ca1/jars/libs/aliyun-vod-croe-android-sdk-1.2.1.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/gradle-4.1/caches/transforms-1/files-1.1/AliyunSdk-RCE.aar/acc7542e9a4d18f15f7e6c78253f9ca1/jars/classes.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/gradle-4.1/caches/transforms-1/files-1.1/AliyunSdk-RCE.aar/acc7542e9a4d18f15f7e6c78253f9ca1/jars/libs/AliyunVideoSdk-3.5.0-standard-2018.02.09.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/gradle/gradle-4.1/caches/transforms-1/files-1.1/AliyunSdk-RCE.aar/acc7542e9a4d18f15f7e6c78253f9ca1/res" />
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/gradle-4.1/caches/transforms-1/files-1.1/AliyunSdk-RCE.aar/acc7542e9a4d18f15f7e6c78253f9ca1/jars/libs/aliyun-vod-auth-android-sdk-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

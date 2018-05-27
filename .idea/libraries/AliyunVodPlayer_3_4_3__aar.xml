@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AliyunVodPlayer-3.4.3:@aar">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/gradle/gradle-4.1/caches/transforms-1/files-1.1/AliyunVodPlayer-3.4.3.aar/0b3ee7bad88062b6c5b4f9d7a8293cbb/res" />
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/gradle-4.1/caches/transforms-1/files-1.1/AliyunVodPlayer-3.4.3.aar/0b3ee7bad88062b6c5b4f9d7a8293cbb/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

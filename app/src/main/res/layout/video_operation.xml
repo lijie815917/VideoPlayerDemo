@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:id="@+id/rl_video_play_operation"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/video_play_top_and_bottom">
+    <ImageView
+        android:id="@+id/iv_video_play_operation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:paddingLeft="10dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/video_play_icon_selector"/>
+
+    <SeekBar
+        android:id="@+id/sb_video_play_progress_seek_bar"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"
+        android:layout_toLeftOf="@+id/tv_video_play_current_time"
+        android:layout_toRightOf="@+id/iv_video_play_operation"
+        android:layout_weight="1"
+        android:max="100"
+        android:maxHeight="2dp"
+        android:minHeight="1dp"
+        android:paddingRight="10dp"
+        android:progressDrawable="@drawable/bg_bar_secondary"
+        android:thumb="@drawable/thumb_bar"
+        android:thumbOffset="10dp" />
+    <TextView
+        android:id="@+id/tv_video_play_current_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/tv_video_play_total_time"
+        android:textColor="#f5f5f5"
+        android:text="00:00/"
+        android:textSize="13sp" />
+
+    <TextView
+        android:id="@+id/tv_video_play_total_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="20dp"
+        android:layout_toLeftOf="@+id/iv_video_play_full_screen"
+        android:textColor="#f5f5f5"
+        android:text="00:00"
+        android:textSize="13sp" />
+
+    <ImageView
+        android:id="@+id/iv_video_play_full_screen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:paddingRight="10dp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/video_play_full_screen_selector" />
+    </RelativeLayout>
+</RelativeLayout>

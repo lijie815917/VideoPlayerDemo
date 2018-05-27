@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"使用<ns1:g id="APPLICATION_NAME">%s</ns1:g>分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="aliv_err_download_invalid_save_path">视频文件保存路径不存在，请重新设置</string>
+    <string name="alivc_cannot_change_quality">在此播放器状态下不能切换</string>
+    <string name="alivc_download_mode_changed">下载模式改变无法继续下载</string>
+    <string name="alivc_err_auth_expried">鉴权过期，请重新获取新的鉴权信息</string>
+    <string name="alivc_err_data_error">服务器返回数据错误</string>
+    <string name="alivc_err_decode_failed">视频解码失败</string>
+    <string name="alivc_err_download_already_added">当前视频已经添加到下载项，请避免重复添加</string>
+    <string name="alivc_err_download_get_key">获取秘钥失败，请检查秘钥文件</string>
+    <string name="alivc_err_download_invalid_inputfile">视频下载流无效或地址过期</string>
+    <string name="alivc_err_download_invalid_url">下载地址无效</string>
+    <string name="alivc_err_download_network_timeout">视频下载时网络超时</string>
+    <string name="alivc_err_download_no_encrypt_file">未找到加密文件，请从控制台下载加密文件并集成</string>
+    <string name="alivc_err_download_no_match">未找到合适的下载项，请先添加</string>
+    <string name="alivc_err_download_no_network">视频下载时连接不到服务器</string>
+    <string name="alivc_err_download_no_permission">当前视频不可下载</string>
+    <string name="alivc_err_download_no_space">磁盘空间不够</string>
+    <string name="alivc_err_download_request_mts_serveer_error">下载请求mts服务器错误</string>
+    <string name="alivc_err_download_request_saas_server_error">下载请求saas服务器错误</string>
+    <string name="alivc_err_download_server_invalid_param">下载服务器返回参数无效，请检查</string>
+    <string name="alivc_err_function_denied">系统权限被拒绝或没有经过授权</string>
+    <string name="alivc_err_illegalstatus">非法的播放器状态</string>
+    <string name="alivc_err_invalid_inutfile">无效的输入，请检查输入地址或者网络链接</string>
+    <string name="alivc_err_invalid_param">参数非法，请检查参数</string>
+    <string name="alivc_err_loading_failed">网络错误加载视频失败</string>
+    <string name="alivc_err_loading_timeout">视频加载超时，请检查网络状况</string>
+    <string name="alivc_err_media_abort">获取数据被中止</string>
+    <string name="alivc_err_media_unsopproted">媒体源不支持或者无效</string>
+    <string name="alivc_err_no_inputfile">没有设置视频源或视频地址不存在</string>
+    <string name="alivc_err_no_memory">内存不足</string>
+    <string name="alivc_err_no_network">当前网络不可用</string>
+    <string name="alivc_err_no_storage_permission">无本地存储访问权限</string>
+    <string name="alivc_err_no_support_codec">视频编码格式不支持</string>
+    <string name="alivc_err_no_view">没有设置显示窗口，请先设置播放视图</string>
+    <string name="alivc_err_play_failed">播放出错</string>
+    <string name="alivc_err_playauth_parse_failed">playAuth解析失败</string>
+    <string name="alivc_err_read_data_failed">读取视频源失败</string>
+    <string name="alivc_err_read_metadata_failed">读取元数据失败</string>
+    <string name="alivc_err_request_data_error">请求数据错误</string>
+    <string name="alivc_err_request_error">服务端请求错误</string>
+    <string name="alivc_err_request_mts_server_error">请求mts服务器错误</string>
+    <string name="alivc_err_request_saas_server_error">请求saas服务器错误</string>
+    <string name="alivc_err_server_invalid_param">服务器返回参数无效，请检查参数</string>
+    <string name="alivc_err_unkown">未知错误</string>
+    <string name="alivc_err_vencrypted_video_unsuported">不支持加密视频播放</string>
+    <string name="alivc_err_video_format_unsupported">视频格式不支持</string>
+    <string name="alivc_fd_definition">流畅</string>
+    <string name="alivc_hd_definition">超清</string>
+    <string name="alivc_k2_definition">2k</string>
+    <string name="alivc_k4_definition">4k</string>
+    <string name="alivc_ld_definition">标清</string>
+    <string name="alivc_mts_fhd_definition">超清</string>
+    <string name="alivc_mts_hd_definition">高清</string>
+    <string name="alivc_mts_ld_definition">流畅</string>
+    <string name="alivc_mts_sd_definition">标清</string>
+    <string name="alivc_mts_xld_definition">极速</string>
+    <string name="alivc_no_mediaplayer">播放器未创建</string>
+    <string name="alivc_od_definition">原画</string>
+    <string name="alivc_quality_same">和当前播放清晰度一致</string>
+    <string name="alivc_sd_definition">高清</string>
+    <string name="alivc_success">成功</string>
+    <string name="download_error_curl_download">curl 下载失败</string>
+    <string name="download_error_curl_init">curl初始化失败</string>
+    <string name="download_error_curl_opt">curl 出错</string>
+    <string name="download_error_dest_open_fail">保存地址打开失败</string>
+    <string name="download_error_disk_full">存储空间不足</string>
+    <string name="download_error_invalid_secret_image">无效的加密文件</string>
+    <string name="download_error_source_open_fail">源文件打开失败</string>
+    <string name="download_error_stopped">下载停止</string>
+    <string name="download_error_unkown">未知下载错误</string>
+    <string name="download_error_url_size">url 大小出错</string>
+    <string name="exo_controls_fastforward_description">快进</string>
+    <string name="exo_controls_fullscreen_description">全屏模式</string>
+    <string name="exo_controls_next_description">下一曲</string>
+    <string name="exo_controls_pause_description">暂停</string>
+    <string name="exo_controls_play_description">播放</string>
+    <string name="exo_controls_previous_description">上一曲</string>
+    <string name="exo_controls_repeat_all_description">全部重复播放</string>
+    <string name="exo_controls_repeat_off_description">不重复播放</string>
+    <string name="exo_controls_repeat_one_description">重复播放一项</string>
+    <string name="exo_controls_rewind_description">快退</string>
+    <string name="exo_controls_shuffle_description">随机播放</string>
+    <string name="exo_controls_stop_description">停止</string>
+    <string name="exo_download_completed">下载完毕</string>
+    <string name="exo_download_description">下载</string>
+    <string name="exo_download_downloading">正在下载</string>
+    <string name="exo_download_failed">下载失败</string>
+    <string name="exo_download_notification_channel_name">下载内容</string>
+    <string name="exo_download_removing">正在移除下载内容</string>
+    <string name="exo_item_list">%1$s，%2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbps</string>
+    <string name="exo_track_mono">单声道</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">自动</string>
+    <string name="exo_track_selection_none">无</string>
+    <string name="exo_track_selection_title_audio">音频</string>
+    <string name="exo_track_selection_title_text">文字</string>
+    <string name="exo_track_selection_title_video">视频</string>
+    <string name="exo_track_stereo">立体声</string>
+    <string name="exo_track_surround">环绕声</string>
+    <string name="exo_track_surround_5_point_1">5.1 环绕声</string>
+    <string name="exo_track_surround_7_point_1">7.1 环绕声</string>
+    <string name="exo_track_unknown">未知</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>
